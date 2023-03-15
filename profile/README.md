@@ -16,7 +16,7 @@ We know when to pay extreme attention to detail and when to put the pedal to the
 
 ## Team
 
-Il team Tech IT di Entiende S.r.l. è composto da tre membri che lavorano allo sviluppo di diverse pagine web, tra cui CRM, pagine di marketing e server backend. Nonostante nessuno dei repository dell'azienda sia pubblico, il team si impegna a utilizzare gli strumenti più innovativi ed efficienti per garantire che l'azienda rimanga al passo con l'innovazione tecnologica.
+Develops' core team consists of three members who are involved in the development of various projects for its clients. Although none of the company's repositories are public, the team is committed to using the most innovative and efficient tools to ensure methodologies keep up with technological innovation.
 
 ### Members:
 
